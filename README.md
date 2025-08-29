@@ -12,3 +12,4 @@ Responsive and easy-to-use interface
 
 Fun animations and feedback on correct/incorrect guesses
 
+Life preview: https://hangman-sigma-ebon.vercel.app/
